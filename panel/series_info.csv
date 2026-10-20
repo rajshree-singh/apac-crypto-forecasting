@@ -1,0 +1,12 @@
+series,venue,start,end,days,filled_days,zero_ret_pct,ann_vol_pct,mean_prem
+BTC-USD,Global aggregate (CoinMarketCap via Yahoo Finance),2018-01-01,2024-02-14,2236,0,0.0,70.0,
+ETH-USD,Global aggregate (CoinMarketCap via Yahoo Finance),2018-01-01,2024-02-14,2236,0,0.0,90.1,
+LTC-USD,Global aggregate (CoinMarketCap via Yahoo Finance),2018-01-01,2024-02-14,2236,0,0.0,95.7,
+BTC-KRW,Upbit (Seoul),2018-01-01,2024-02-14,2236,0,0.22,63.8,1.65
+ETH-KRW,Upbit (Seoul),2018-01-01,2024-02-14,2236,0,0.49,83.4,1.62
+BTC-JPY,bitbank (Tokyo),2018-01-01,2024-02-14,2236,0,0.04,71.4,0.06
+BTC-INR,WazirX (Mumbai),2018-03-08,2024-02-14,2170,0,1.75,75.8,2.68
+ETH-JPY,bitbank (Tokyo),2020-05-24,2024-02-14,1362,0,0.15,81.8,0.3
+ETH-INR,WazirX (Mumbai),2018-04-12,2024-02-14,2135,0,8.62,95.5,3.13
+LTC-JPY,bitbank (Tokyo),2020-05-24,2024-02-14,1362,0,0.0,91.0,0.13
+LTC-INR,WazirX (Mumbai),2018-03-08,2024-02-14,2170,0,12.63,106.8,3.33

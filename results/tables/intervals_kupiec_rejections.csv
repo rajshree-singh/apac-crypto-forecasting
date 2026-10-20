@@ -1,0 +1,10 @@
+h,method,0
+1,MC dropout + residual,7
+1,MC dropout only,11
+1,RW + 60-day volatility,0
+3,MC dropout + residual,3
+3,MC dropout only,11
+3,RW + 60-day volatility,0
+7,MC dropout + residual,3
+7,MC dropout only,11
+7,RW + 60-day volatility,6
